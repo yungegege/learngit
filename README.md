@@ -4,8 +4,8 @@
 * 毕业院校：武汉大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;求职意向：java研发工程师
 
 # 教育经历
-* <p>2017.09-2019.06         武汉大学              计算机技术                                   专 硕</p>     
-* 2013.09-2017.06         合肥师范学院          计算机科学与技术                             本 科                
+* 2017.09-2019.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;武汉大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专 硕
+* 2013.09-2017.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;合肥师范学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学与技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本 科
 
 # 专业技能
 * 熟悉java core，熟悉jvm及并发编程，了解常用的设计模式;
